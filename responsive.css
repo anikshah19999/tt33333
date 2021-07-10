@@ -1,0 +1,398 @@
+
+@media all and (max-width:1400px){
+
+    /* .carsol-one-img {
+        height: 65vh;
+    }
+    .carsol-two-img {
+        height: 65vh;
+    }
+    .carsol-three-img{
+        height: 65vh;
+    } */
+    .choose-title h1 {
+        font-size: 3.2rem;
+    }
+    .news-text h3 {
+        font-size: 2.4rem;
+    }
+    .about-us-content h4 {
+        font-size: 2.3rem;
+    }
+
+}
+@media all and (max-width:1200px){
+    /* .carsol-one-img {
+        height: 60vh;
+    } */
+    .carsol-title h1 {
+      font-size: 4.5rem;
+    }
+    /* .carsol-title {
+        width: 73.0rem;
+    } */
+    .title h1 {
+        font-size: 2.6rem;
+    }
+    .title p {
+        line-height: 2.4rem;
+    }
+    .title p {
+        line-height: 2.4rem;
+        font-size: 1.6rem !important;
+    }
+    .project-text h3 {
+        font-size: 2rem;
+    }
+    .choose-imges {
+        margin-top: 7.5rem;
+    }
+    .social ul li {
+        left: 0;
+    }
+    .progress-left-righ {
+        margin-bottom: 0rem;
+    }
+    .progress-left-righ {
+        margin-bottom: .4rem;
+    }
+    .apportment-form-style input {
+        font-size: 1.3rem;
+    }
+    .apportment-form-style select {
+        font-size: 1.3rem;
+    }
+    .news-text h3 {
+        font-size: 1.8rem;
+    }
+    .carsol-title2 {
+        padding-bottom: 40px;
+    }
+   
+}
+@media all and (max-width:992px) {
+    .header-top-left{
+        justify-content: center;
+        align-items: center;
+    }
+    .header-top-right {
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: .5rem;
+    }
+    .header-bottom-section {
+        position: relative;
+    }
+    .jon-menu li a {
+        font-size: 1.6rem;
+        line-height: 5.5rem;
+    }
+    .jon-menu li a i {
+        font-size: 1.2rem;
+    }
+    .jon-header a img {
+        width: 10rem;
+    }
+    .jon-menu {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    .bar-search {
+        display: none;
+    }
+    .jon-menu li ul {
+        left: 14%;
+        top: 0%;
+        width: 18rem;
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+    .jon-menu li ul li a i {
+        position: relative;
+        top: 0;
+        left: -8.6rem;
+    }
+    .jon-menu li:hover > ul {
+        top: 2rem;
+    }
+    .bot-uper {
+        margin-bottom: 3.5rem;
+    }
+/* 
+    .custom-shape-divider-bottom-1625579837 svg {
+        height: 0rem;
+    } */
+    .bot-uper {
+        top: 4.0rem;
+    }
+    .bot-lower {
+        position: relative;
+        top: 6.0rem;
+        left: 0;
+    }
+    /* .carsol-title {
+        width: 56.1rem;
+        padding-bottom: 14.0rem;
+    } */
+    /* .carsol-one-img {
+        height: 50vh;
+    }
+    .carsol-two-img {
+        height: 50vh;
+    }
+    .carsol-three-img{
+        height:50vh;
+    } */
+    .about-us-section {
+        padding-bottom: 6.0rem;
+    }
+    .serives-box h3 {
+        font-size: 1.8rem;
+    }
+    .project-text {
+        margin-bottom: 2.5rem;
+    }
+    .amite-hov:hover .project-items .aro4 {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .amite-hov:hover .project-items .aro5 {
+        opacity: 0;
+        visibility:hidden;
+    }
+    .why-choose-image {
+        margin-top: 5.7rem;
+    }
+    .choose-title strong {
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
+    .team-box {
+        margin-bottom: 5.0rem;
+    }
+    .number-cunter.text-center {
+        margin: 2rem 0rem;
+    }
+    .news-latter-box {
+        margin-bottom: 3rem;
+    }
+    .new-items-img.text-center {
+        margin-bottom: 6rem;
+    }
+    .news-text h3 {
+        font-size: 2rem;
+    }
+
+    .carsol-title2 h1 {
+        font-size: 3.5rem;
+    }
+
+    .carsol-title2 {
+        margin: auto;
+        z-index: 5;
+        /* padding-bottom: 19.9rem; */
+        width: 80%;
+    }
+    .about-botom-right {
+        margin-top: 7.0rem;
+    }
+    .jon-menu li ul li ul {
+        position: absolute;
+        left: 100%;
+        top: 100%;
+        /* top: 0; */
+    }
+    .carsol-one-img {
+      padding: 120px 0px;
+    }
+    .carsol-two-img {
+        padding: 120px 0px;
+    }
+    .carsol-three-img{
+        padding: 120px 0px;
+    }
+    .carsol-title2 h1 {
+        font-size: 3rem;
+    }
+}
+@media  (max-width:991px){
+ 
+    .about-botom-right {
+      margin-left: 0rem;
+      padding-left: 0;
+    }
+  
+}
+
+@media all and (max-width:790px){
+    .carsol-title2 h1 {
+        font-size:2.4rem;
+    }
+    .carsol-title2 p {
+        font-size:1.5rem;
+    }
+  
+}
+@media all and (max-width:768px){
+    .jon-menu li a i {
+        display: none;
+    }
+    .jon-menu li ul {
+        left: 17%;
+    }
+    /* .carsol-title {
+        width: 45.0rem;
+        padding-bottom: 10rem;
+    } */
+    .carsol-title h1 {
+        font-size: 3rem;
+    }
+    /* .carsol-one-img {
+        height: 30vh;
+    }
+    .carsol-two-img {
+        height: 30vh;
+    }
+    .carsol-three-img{
+        height:30vh;
+    } */
+    .bot-uper {
+        margin-bottom: 1rem;
+    }
+    .bot-lower {
+        margin-bottom: 5rem;
+    }
+    .choose-text h3 {
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    .choose-text p {
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+    .team-box {
+        text-align: center;
+    }
+    .social ul {
+        left: 0rem;
+    }
+    .two2 .lin {
+        display: none;
+    }
+    .carsol-title {
+        width: 45rem;
+        padding-bottom: 2rem;
+    }
+    .btn-btn {
+        padding: 1.4rem 2rem;
+    }
+    /* .carsol-title2 {
+
+        padding-bottom: 1.4rem;
+    } */
+    .carsol-title2 h1 {
+        font-size: 2.1rem;
+    }
+    .carsol-title2 p {
+        font-size: 1.4rem;
+    }
+    .about-botom-left .img22 {
+        right: 0rem;
+        left: 0;
+        margin: auto;
+    }
+ 
+}
+
+@media all and (max-width:576px){
+    .sorbe-left {
+        margin-left: 0rem;
+    }
+    .sorbe-right {
+        margin-right: 0rem;
+    }
+    .title h1 {
+        font-size: 2.4rem;
+    }
+    .contact-left-progress h2 {
+        font-size: 2.7rem;
+       }
+
+       .contact-counter {
+        padding: 9rem 2rem;
+    }
+    .about-botom-left .img22 {
+        height: 20rem;
+    }
+    .carsol-title2 h1 {
+        font-size: 2.1rem;
+        width: 314px;
+        margin: auto;
+    }
+    .carsol-title2 p {
+        font-size: 1.4rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+}
+@media all and (max-width:500px){
+    .progress-left-righ h5 {
+        color: #fff;
+        font-size: 1.4rem;
+        font-weight: 700;
+    }
+    .progress-left-righ strong {
+        font-size: 1.6rem;
+    }
+    .jon-menu li ul {
+        left: 25%;
+    }
+}
+@media all and (max-width:450px){
+    .number-cunter h5 {
+        font-size: 1.6rem;
+    }
+    .carsol-one-img {
+        padding: 90px 0px;
+    }
+    .carsol-two-img {
+        padding: 90px 0px;
+    }
+    .carsol-three-img {
+        padding: 90px 0px;
+    }
+    .carsol-title2 h1 {
+        font-size: 2.1rem;
+        width: 81%;
+        margin: auto;
+    }
+
+}
+
+@media all and (max-width:410px){
+    .header-top-section {
+        display: none;
+    }
+    .title-items ul li strong {
+        font-size: 1.4rem;
+    }
+    .btn-btn {
+        padding: 1.2rem 1.8rem;
+        font-size: 1.2rem;
+    }
+    .jon-menu li ul {
+        left: 24%;
+    }
+
+}
+
+@media all and (max-width:360px){
+    .carsol-title2 h1 {
+        font-size: 1.8rem;
+    }
+    .title-items ul li strong {
+        font-size: 1.2rem;
+    }
+}
